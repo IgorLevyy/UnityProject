@@ -21,8 +21,7 @@ public class changeColor : MonoBehaviour
 
     private Color GetRandomColor()
     {
-        return new Color(Random.Range(0, 1f),
-            Random.Range(0, 1f),
-            Random.Range(0, 1f));
+        return Color.blue;
+          //  new Color(Random.Range(0, 1f),            Random.Range(0, 1f),            Random.Range(0, 1f));
     }
 }
