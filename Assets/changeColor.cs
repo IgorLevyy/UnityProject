@@ -23,7 +23,7 @@ public class changeColor : MonoBehaviour
 
     private Color GetRandomColor()
     {
-        return Color.blue;
+        return Color.yellow;
           //  new Color(Random.Range(0, 1f),            Random.Range(0, 1f),            Random.Range(0, 1f));
     }
 }
