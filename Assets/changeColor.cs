@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class changeColor : MonoBehaviour
 {
+    public GameObject gameObject;
+
     // Start is called before the first frame update
     void Start()
     {
